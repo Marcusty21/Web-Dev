@@ -1,0 +1,26 @@
+body{
+    font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color:blue;
+    background-color: black;
+}
+
+li{
+    font-size: 14px;
+    font-style: italic;
+}
+a{
+    font-size: 10px;
+    color: maroon;
+    text-decoration: none;
+}
+.listheading{
+    font-weight: bold;
+    font-style: normal;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
